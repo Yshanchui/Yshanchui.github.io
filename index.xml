@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title></title>
+        <link>https://yshanchui.github.io/</link>
+        <description>Recent content on </description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 25 Jun 2022 10:36:26 +0800</lastBuildDate><atom:link href="https://yshanchui.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>https://yshanchui.github.io/archives/</link>
+        <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://yshanchui.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://yshanchui.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yshanchui.github.io/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://yshanchui.github.io/about/</link>
+        <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://yshanchui.github.io/about/</guid>
+        <description>&lt;p&gt;目前在长沙搬砖的运维打杂人。事多苦！&lt;/p&gt;
+&lt;p&gt;此博客主要记录平时产生的一些想法，灵感及日常工作中或者学习中碰到的一些小问题&lt;/p&gt;
+&lt;p&gt;记录会比较杂乱&lt;/p&gt;
+&lt;p&gt;希望对各位有所帮助&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Categories</title>
+        <link>https://yshanchui.github.io/categories/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yshanchui.github.io/categories/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://yshanchui.github.io/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yshanchui.github.io/links/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

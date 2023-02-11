@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on </title>
+        <link>https://yshanchui.github.io/tags/</link>
+        <description>Recent content in Tags on </description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Wed, 24 Jun 2020 10:36:26 +0800</lastBuildDate><atom:link href="https://yshanchui.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>运维</title>
+        <link>https://yshanchui.github.io/tags/%E8%BF%90%E7%BB%B4/</link>
+        <pubDate>Wed, 24 Jun 2020 10:36:26 +0800</pubDate>
+        
+        <guid>https://yshanchui.github.io/tags/%E8%BF%90%E7%BB%B4/</guid>
+        <description>&lt;img src="https://yshanchui.github.io/tags/%E8%BF%90%E7%BB%B4/ops.jpg" alt="Featured image of post 运维" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on </title>
+        <link>https://yshanchui.github.io/categories/</link>
+        <description>Recent content in Categories on </description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 25 Jun 2022 10:36:26 +0800</lastBuildDate><atom:link href="https://yshanchui.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>计算机</title>
+        <link>https://yshanchui.github.io/categories/computer/</link>
+        <pubDate>Sat, 25 Jun 2022 10:36:26 +0800</pubDate>
+        
+        <guid>https://yshanchui.github.io/categories/computer/</guid>
+        <description>&lt;img src="https://yshanchui.github.io/categories/computer/computer.jpg" alt="Featured image of post 计算机" /&gt;</description>
+        </item>
+        <item>
+        <title>操作系统</title>
+        <link>https://yshanchui.github.io/categories/os/</link>
+        <pubDate>Fri, 24 Jun 2022 10:36:26 +0800</pubDate>
+        
+        <guid>https://yshanchui.github.io/categories/os/</guid>
+        <description>&lt;img src="https://yshanchui.github.io/categories/os/os.jpg" alt="Featured image of post 操作系统" /&gt;</description>
+        </item>
+        <item>
+        <title>网络</title>
+        <link>https://yshanchui.github.io/categories/network/</link>
+        <pubDate>Fri, 24 Jun 2022 10:36:26 +0800</pubDate>
+        
+        <guid>https://yshanchui.github.io/categories/network/</guid>
+        <description>&lt;img src="https://yshanchui.github.io/categories/network/network.jpg" alt="Featured image of post 网络" /&gt;</description>
+        </item>
+        <item>
+        <title>基础</title>
+        <link>https://yshanchui.github.io/categories/basics/</link>
+        <pubDate>Tue, 24 May 2022 15:39:10 +0800</pubDate>
+        
+        <guid>https://yshanchui.github.io/categories/basics/</guid>
+        <description>&lt;img src="https://yshanchui.github.io/categories/basics/basics.jpg" alt="Featured image of post 基础" /&gt;</description>
+        </item>
+        <item>
+        <title>golang</title>
+        <link>https://yshanchui.github.io/categories/golang/</link>
+        <pubDate>Wed, 24 Jun 2020 10:36:26 +0800</pubDate>
+        
+        <guid>https://yshanchui.github.io/categories/golang/</guid>
+        <description>&lt;img src="https://yshanchui.github.io/categories/golang/golang.jpg" alt="Featured image of post golang" /&gt;</description>
+        </item>
+        <item>
+        <title>java</title>
+        <link>https://yshanchui.github.io/categories/java/</link>
+        <pubDate>Wed, 24 Jun 2020 10:36:26 +0800</pubDate>
+        
+        <guid>https://yshanchui.github.io/categories/java/</guid>
+        <description>&lt;img src="https://yshanchui.github.io/categories/java/java.jpg" alt="Featured image of post java" /&gt;</description>
+        </item>
+        <item>
+        <title>rust</title>
+        <link>https://yshanchui.github.io/categories/rust/</link>
+        <pubDate>Wed, 24 Jun 2020 10:36:26 +0800</pubDate>
+        
+        <guid>https://yshanchui.github.io/categories/rust/</guid>
+        <description>&lt;img src="https://yshanchui.github.io/categories/rust/rust.jpg" alt="Featured image of post rust" /&gt;</description>
+        </item>
+        <item>
+        <title>运维</title>
+        <link>https://yshanchui.github.io/categories/ops/</link>
+        <pubDate>Wed, 24 Jun 2020 10:36:26 +0800</pubDate>
+        
+        <guid>https://yshanchui.github.io/categories/ops/</guid>
+        <description>&lt;img src="https://yshanchui.github.io/categories/ops/ops.jpg" alt="Featured image of post 运维" /&gt;</description>
+        </item>
+        <item>
+        <title>杂乱</title>
+        <link>https://yshanchui.github.io/categories/disorderly/</link>
+        <pubDate>Wed, 24 Jun 2020 10:36:26 +0800</pubDate>
+        
+        <guid>https://yshanchui.github.io/categories/disorderly/</guid>
+        <description>&lt;img src="https://yshanchui.github.io/categories/disorderly/disorderly.jpg" alt="Featured image of post 杂乱" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
